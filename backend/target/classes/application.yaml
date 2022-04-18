@@ -1,0 +1,8 @@
+server:
+  port: 8080
+  forward-headers-strategy: FRAMEWORK
+app:
+  app_key: ding1nsnol2cba84y0ky
+  app_secret: LNKcl9nF9PudLbrV4gw27tituQWxo-PNelz5kdXNhj0ZIQeVrqgCBMHLvLpjtjy2
+  corp_id: ding6f37ea1861c3ad36bc961a6cb783455b
+  agent_id: 1583807506
